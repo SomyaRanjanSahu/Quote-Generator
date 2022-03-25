@@ -19,6 +19,6 @@
 </p>
 
 
-### [<p align="center">🔗 Page Link </p>](#)
+### [<p align="center">🔗 Page Link </p>](https://somyaranjansahu.github.io/QuoteGenerator/)
 
 <h3 align="center"> Show ❤️ by Starring this Repo </h3>
